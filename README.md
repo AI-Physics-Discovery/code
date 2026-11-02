@@ -2,6 +2,8 @@
 
 This repository mainly contains the notebooks and raw results. For the formatted IEEE paper, the poster version of which won Best Poster at MIT URTC, see [here](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=87Rq5mAAAAAJ&citation_for_view=87Rq5mAAAAAJ:u-x6o8ySG0sC).
 
+Authors: Prasham Shah, Harinarayan Asoori Sriram, Ishani Bakshi, Logan Miller, Aarav Khatri, Katherine Estevanell, Henry Gaus, Oliver Kahng, Chloe Krawczak, Joshua Moore, Kaitlin Zhang
+
 ## Notebook Path: `./main.ipynb`
 - Contains documentation and code
 - *Recommended*: Run in Google Colab on the T4-GPU-powered server, which has all the necessary libraries installed
